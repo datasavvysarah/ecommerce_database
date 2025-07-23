@@ -1,6 +1,6 @@
 # SQL Subqueries and CTEs Assignment Ecommerce_database
 
-📋 Assignment Overview
+📋 Assignment Overviews:
 
 - This repository contains my complete SQL assignment demonstrating subqueries and Common Table Expressions (CTEs) using a Nigerian e-commerce database.
 
