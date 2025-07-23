@@ -75,9 +75,9 @@ Key Features:
 
 # Screenshots
 - The screenshots/ folder contains:
-- question_1_results.png - Query 1 execution and results
-- question_2_results.png - Query 2 execution and results
-- question_3_4_results.png - Query 3&4 execution and results
+- question_one_results.png - Query 1 execution and results
+- question_two_results.png - Query 2 execution and results
+- question_three_four_results.png - Query 3&4 execution and results
 
 # Key Learning Outcomes
 
